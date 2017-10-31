@@ -1,3 +1,9 @@
+- Name: Zaki Khan  
+  Place: Hyderabad  
+  Bio: I am an environmentalist  
+  Github: [Zaki-Khan](https://github.com/Zaki-Khan)  
+  Facebook:  
+  
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
